@@ -6,9 +6,9 @@
 
 ### Hi there 👋
 
-# I'm Arnold, a junior full stack engineer, determined to meet my goals with great aspirations and very discipline. My mission is to meet client needs and i found it joyfull to build build apps that is been used by people to achieve their task
+I'm Arnold, a junior full stack engineer, determined to meet my goals with great aspirations and very discipline. My mission is to meet client needs and i found it joyfull to build build apps that is been used by people to achieve their task
 
-# I have a wonderful Love for Technology
+I have a wonderful Love for Technology
 
 <!-- GitHub Stats -- >
 
