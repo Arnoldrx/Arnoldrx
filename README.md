@@ -15,7 +15,7 @@ I have a wonderful Love for Technology ❤️
 - 👯 I’m looking to collaborate with Any team or developer
 - 🤔 I’m looking for help with Integrating Design
 - 💬 Ask me about Backend & FrontEnd
-- 📫 How to reach me: tagnearnold2080@gmail.com & @rnoldrx
+- 📫 How to reach me: tagnearnold2080@gmail.com & Twitter @rnoldrx
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I ❤️ Animes
 
