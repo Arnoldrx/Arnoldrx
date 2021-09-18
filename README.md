@@ -10,15 +10,6 @@ I'm Arnold, a 4th year student pursuing a Bachelor in Computer engineering, dete
 
 I have a wonderful Love for Technology ❤️
 
-- 🔭 I’m currently working on FullStack Project
-- 🌱 I’m currently learning Frontend And Backend
-- 👯 I’m looking to collaborate with Any team or developer
-- 🤔 I’m looking for help with Integrating Design
-- 💬 Ask me about Backend & FrontEnd
-- 📫 How to reach me: tagnearnold2080@gmail.com & Twitter @rnoldrx
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I ❤️ Animes
-
 <br>
 
 ## GitHub Stats
