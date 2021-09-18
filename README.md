@@ -10,6 +10,15 @@ I'm Arnold, a 4th year student pursuing a Bachelor in Computer engineering, dete
 
 I have a wonderful Love for Technology ❤️
 
+- 🔭 I’m currently working on FullStack Project
+- 🌱 I’m currently learning Frontend And Backend
+- 👯 I’m looking to collaborate with Any team or developer
+- 🤔 I’m looking for help with Integrating Design
+- 💬 Ask me about Backend & FrontEnd
+- 📫 How to reach me: tagnearnold2080@gmail.com & @rnoldrx
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I ❤️ Animes
+
 <br>
 
 ## GitHub Stats
@@ -53,9 +62,9 @@ I have a wonderful Love for Technology ❤️
 
 </details>
 
-### Want to know how I made this README?
+<!-- ### Want to know how I made this README? -->
 
-Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)!
+<!-- Check out this [tutorial](https://braydoncoyer.dev/blog/creating-a-killer-github-profile-readme-part-1/)! -->
 
 <!--
 **Arnoldrx/Arnoldrx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
