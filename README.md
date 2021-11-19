@@ -41,7 +41,7 @@ I have a wonderful Love for Technology ❤️
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
- ![](https://img.shields.io/badge/Chakra-UI-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
+ ![](https://img.shields.io/badge/Chakra-UI-informational?style=flat&logo=chakraUI&logoColor=white&color=4AB197)
 
 <br>
 
