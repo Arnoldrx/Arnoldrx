@@ -6,7 +6,7 @@
 
 Hi there 👋
 
-I'm Arnold, a 4th year student pursuing a Bachelor in Computer engineering, determined to meet my goals with great aspirations and very discipline. I'm a junior full stack engineer. ✨ My mission is to meet client needs and i found it joyfull to build build apps that is been used by people to achieve their task ✨
+I'm Arnold,  determined to meet my goals with great aspirations and very discipline. I'm a Software/DevOps engineer. ✨ My mission is to meet client needs and i found it joyfull to build build apps that is been used by people to achieve their task ✨
 
 I have a wonderful Love for Technology ❤️
 
